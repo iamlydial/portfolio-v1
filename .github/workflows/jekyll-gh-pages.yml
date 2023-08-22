@@ -50,7 +50,7 @@ jobs:
         run: echo "DEPLOY_URL=https://iamlydial.github.io/portfolio-v1/" >> $GITHUB_ENV
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
           branch: gh-pages
           folder: ./dist
