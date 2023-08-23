@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-tilt": "^1.0.2",
     "three": "^0.155.0"
   },
   "devDependencies": {
