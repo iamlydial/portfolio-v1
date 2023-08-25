@@ -7,6 +7,7 @@ import {
   typescript,
   html,
   css,
+  django,
   reactjs,
   redux,
   tailwind,
@@ -18,6 +19,7 @@ import {
   constructorLearning,
   xcelBrands,
   meta,
+  python,
   starbucks,
   tesla,
   shopify,
@@ -79,10 +81,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -93,6 +91,14 @@ const technologies = [
   {
     name: "Tailwind CSS",
     icon: tailwind,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "Django",
+    icon: django,
   },
   {
     name: "Node JS",
